@@ -1,0 +1,35 @@
+Privacy Policy – InterestHub
+
+Last updated: 2026-02-02
+
+InterestHub is a consumer mobile application that allows users to save and organize publicly available social media content related to places and experiences.
+
+1. Data We Collect
+InterestHub only processes minimal data provided directly by the user, including:
+- Public URLs of social media posts shared by the user
+- Public metadata returned by official oEmbed APIs (e.g. thumbnail, author name)
+- Basic account information if the user creates a profile
+
+We do not access private social media content.
+
+2. How We Use Data
+Data is used solely to:
+- Display previews of shared content
+- Organize saved places on a personal map
+- Improve user experience inside the app
+
+We do not use data for advertising or profiling.
+
+3. Data Storage
+All data is stored securely and retained only as long as the user keeps it in the app.
+
+4. Data Deletion
+Users can delete their saved content and account data at any time from within the app.
+Users may also request full data deletion by contacting: privacy@interesthub.app
+
+5. Third-Party Services
+InterestHub uses official APIs (e.g. Meta oEmbed, Google Maps) strictly according to their terms.
+
+6. Contact
+For any privacy-related questions, contact:
+pjappinterest@gmail.com
